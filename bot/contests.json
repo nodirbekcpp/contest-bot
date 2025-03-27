@@ -1,0 +1,165 @@
+{
+    "1": {
+        "name": "Matematik Contest",
+        "grade": "9",
+        "subject": "Matematika"
+    },
+    "2": {
+        "id": "2",
+        "name": "Mantiqiy Matematika",
+        "grade": "9-sinf",
+        "subject": "Matematika"
+    },
+    "3": {
+        "id": "3",
+        "name": "IT",
+        "grade": "9-sinf",
+        "subject": "Informatika",
+        "start_time": "2025-03-25T05:00:00",
+        "end_time": "2025-03-25T07:00:00"
+    },
+    "5": {
+        "id": "5",
+        "name": "contest 1",
+        "grade": "9-sinf",
+        "subject": "Matematika",
+        "start_time": "2025-03-25T13:00:00",
+        "end_time": "2025-03-25T15:00:00"
+    },
+    "6": {
+        "id": "6",
+        "name": "contest 2",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-25T13:00:00",
+        "end_time": "2025-03-25T15:00:00"
+    },
+    "7": {
+        "id": "7",
+        "name": "contest 7",
+        "grade": "11-sinf",
+        "subject": "Biologiya",
+        "start_time": "2025-03-25 19:30",
+        "end_time": "2025-03-25 21:30"
+    },
+    "39240517": {
+        "id": "39240517",
+        "name": "contest time",
+        "grade": "10-sinf",
+        "subject": "Kimyo",
+        "start_time": "2025-03-26 12:00",
+        "end_time": "2025-03-26 14:00"
+    },
+    "71505654": {
+        "id": "71505654",
+        "name": "contest",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-26 14:00",
+        "end_time": "2025-03-26 16:00"
+    },
+    "35996352": {
+        "id": "35996352",
+        "name": "contest.com",
+        "grade": "10-sinf",
+        "subject": "matematika",
+        "start_time": "2025-03-26 14:00",
+        "end_time": "2025-03-26 16:00"
+    },
+    "77779116": {
+        "id": "77779116",
+        "name": "contest 1",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-26 16:00",
+        "end_time": "2025-03-26 18:00"
+    },
+    "3761027": {
+        "id": "3761027",
+        "name": "contest54",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-26 21:00",
+        "end_time": "2025-03-26 22:00"
+    },
+    "61718802": {
+        "id": "61718802",
+        "name": "contest90",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-26 21:00",
+        "end_time": "2025-03-26 23:00"
+    },
+    "51160167": {
+        "id": "51160167",
+        "name": "contestt",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-27 14:00",
+        "end_time": "2025-03-27 15:00"
+    },
+    "54145161": {
+        "id": "54145161",
+        "name": "contest",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-27 15:00",
+        "end_time": "2025-03-27 17:00"
+    },
+    "97453499": {
+        "id": "97453499",
+        "name": "1",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-27 21:00",
+        "end_time": "2025-03-27 23:00"
+    },
+    "99119513": {
+        "id": "99119513",
+        "name": "2",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-27 21:00",
+        "end_time": "2025-03-27 23:00"
+    },
+    "96676042": {
+        "id": "96676042",
+        "name": "3",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-27 21:00",
+        "end_time": "2025-03-27 23:00"
+    },
+    "3072943196": {
+        "id": "3072943196",
+        "name": "contest_reyting",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-27 19:00",
+        "end_time": "2025-03-27 21:00"
+    },
+    "38883717": {
+        "id": "38883717",
+        "name": "contests",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-27 19:00",
+        "end_time": "2025-03-27 20:00"
+    },
+    "79425155": {
+        "id": "79425155",
+        "name": "contesst",
+        "grade": "9-sinf",
+        "subject": "geometriya",
+        "start_time": "2025-03-27 20:00",
+        "end_time": "2025-03-27 22:00"
+    },
+    "16041270": {
+        "id": "16041270",
+        "name": "contest10",
+        "grade": "9-sinf",
+        "subject": "IT",
+        "start_time": "2025-03-27 20:00",
+        "end_time": "2025-03-27 22:00"
+    }
+}
